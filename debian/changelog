@@ -1,3 +1,9 @@
+libintgemm (0.0.4) unstable; urgency=medium
+
+  * debian/control: only build intgemm on amd64
+
+ -- Sander <code@kroket.io>  Fri, 17 Dec 2025 16:34:36 +0100
+
 libintgemm (0.0.3) unstable; urgency=medium
 
   * Default CMake build type to Release.

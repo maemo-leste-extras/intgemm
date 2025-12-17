@@ -5,7 +5,7 @@ if(NOT CMAKE_BUILD_TYPE)
   set(CMAKE_BUILD_TYPE "Release")
 endif()
 
-project(intgemm VERSION 0.0.2)
+project(intgemm VERSION 0.0.4)
 set(CMAKE_POSITION_INDEPENDENT_CODE ON)
 
 string(ASCII 27 Esc)

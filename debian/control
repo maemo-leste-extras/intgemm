@@ -11,6 +11,6 @@ Vcs-Browser: https://github.com/maemo-leste-upstream-forks/intgemm/
 
 
 Package: libintgemm
-Architecture: any
+Architecture: amd64
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: int8_t and int16_t matrix multiply based on https://arxiv.org/abs/1705.01991
